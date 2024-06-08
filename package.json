@@ -1,6 +1,6 @@
 {
-  "homepage": "https://{username}.github.io/{repo-name}",
-  "name": "client",
+  "homepage": "https://ismailkmr.github.io/jamiaclg",
+  "name": "jamiaclg",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
